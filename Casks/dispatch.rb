@@ -1,6 +1,6 @@
 cask "dispatch" do
-  version "0.1.3"
-  sha256 "0aba0bb17016f40e94e8dba103b7832e79e1bbd60b40c8d298acb95cf93abca7"
+  version "0.1.5"
+  sha256 "f1981e55757721cdcd7b3792799f4e0029b871c3efd75ef60f533d5905734e47"
 
   url "https://github.com/paulmillr/dispatch/releases/download/#{version}/Dispatch-#{version}.dmg"
   name "Dispatch"
