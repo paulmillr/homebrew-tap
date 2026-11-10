@@ -1,8 +1,8 @@
 # Dispatch's updater reads this file as its feed (docs/releasing.md in paulmillr/dispatch, Mac automatic updates):
 # keep exactly one literal `version "…"`, `sha256 "…"` and `url "…"` line, and the url exactly as it is.
 cask "dispatch" do
-  version "0.1.6"
-  sha256 "43b644615b01f7c7eaeda26bbacf430bc65563b559938681d37cb738778b5d63"
+  version "0.1.7"
+  sha256 "b5c838ef53b92c66b885a30a68ae4d503276758bc1a520b1ee1f17c86f0313b4"
 
   url "https://github.com/paulmillr/dispatch/releases/download/#{version}/Dispatch-#{version}.dmg"
   name "Dispatch"
